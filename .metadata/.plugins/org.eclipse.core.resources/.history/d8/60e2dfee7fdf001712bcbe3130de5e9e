@@ -19,14 +19,14 @@ public class MyClass {
 		char my_char='A';
 		boolean is_true=false;
 		
-		
+		char lessonD='Lesson 4';
 		
 		System.out.println(my_variable);
 		System.out.println(my_decimal);
 		System.out.println(my_double);
 		System.out.println(my_char);
 		System.out.println(is_true);
-		System.out.println("Youtube Lesson 4");
+		System.out.println(char);
 		
 		System.out.println("Hello With New Custom Package.");
 
