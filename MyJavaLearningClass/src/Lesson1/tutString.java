@@ -14,7 +14,8 @@ public class tutString {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String myString="Hello World"; // Default String Variable
+		String myString="Hello World"; 
+		// Default String Variable
 		System.out.println(myString);
 		
 		System.out.println("_____________Defineing String Length______________");
