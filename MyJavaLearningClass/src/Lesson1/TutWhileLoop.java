@@ -26,6 +26,13 @@ public class TutWhileLoop {
 			System.out.println(i);
 			i--;
 		}
+		System.out.println("---------------Do While-------------------------");
+		int b=0;
+		do {
+			System.out.println(b);
+			b++;
+		}while(b<=10);
+		
 
 	}
 
