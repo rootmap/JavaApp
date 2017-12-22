@@ -23,7 +23,7 @@ public class TutcreateMethod {
 	
 	public static void showStatichello()
 	{
-		System.out.println("Hi Fahad");
+		System.out.println("Hi Fahad"); //static data
 	}
 	
 	public static void showwitParam(String name)
