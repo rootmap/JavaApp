@@ -27,7 +27,7 @@ public class IfMultiCondition {
 			System.out.println("Multi Condition is false");;
 		}
 		
-		if((subjectOne>=35) || (subjectTwo>=35)) //check whatever one is true
+		if((subjectOne>=35) || (subjectTwo>=35)) //check whatever one is true 
 		{
 			System.out.println("Multi Condition statement is true.");
 		}
