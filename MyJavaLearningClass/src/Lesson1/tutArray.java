@@ -21,7 +21,7 @@ public class tutArray {
 		//System.out.println(myArray[0]); //induvidual array print in console
 		int i=0;
 		while(i<=4)
-		{
+		{ //without count we have to count manually how many array quantity we have
 			System.out.println(myArray[i]);
 			i++;
 		}
