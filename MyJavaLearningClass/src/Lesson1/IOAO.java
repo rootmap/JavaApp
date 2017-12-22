@@ -16,7 +16,7 @@ public class IOAO {
 		// TODO Auto-generated method stub
 		
 		int x=10;
-		x+=5;
+		x+=5; 
 		System.out.println("Incremented Value Is = "+x);
 		x++;
 		System.out.println("Incremented Value Is = "+x);
@@ -27,7 +27,7 @@ public class IOAO {
 		x*=5;
 		System.out.println("Incremented Value Is = "+x);
 		x/=5;
-		System.out.println("Incremented Value Is = "+x);
+		System.out.println("Incremented Value Is = "+x); 
 
 	}
 
