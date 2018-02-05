@@ -19,7 +19,7 @@ public class Cube {
 		
 	}
 	
-	Cube (int x,int y, int z)
+	Cube (int x,int y, int z) //constructor overloaping value
 	{
 		length=x;
 		bregth=y;
